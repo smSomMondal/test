@@ -5,6 +5,7 @@ function index() {
     <div>
       <div>hii</div>
       <div>hii3</div>
+      <div>git stash</div>
     </div>
   )
 }
